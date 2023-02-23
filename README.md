@@ -1,4 +1,4 @@
-### Dev Python, Rust, Java, SQL, apoiador de projetos OpenSource. 😎
+### Dev Python, Rust, Java, apoiador de projetos OpenSource. 😎
 
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@fernando1dev)
