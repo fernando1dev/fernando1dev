@@ -3,7 +3,7 @@
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@fernando1dev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fernando1dev)
-[![Twitch]([https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))]([https://twitch.tv/fernando1dev](https://www.linkedin.com/in/fernando-henrique-almeida-machado/))
+[![Twitch]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))]([https://twitch.tv/fernando1dev](https://www.linkedin.com/in/fernando-henrique-almeida-machado/))
 
 ![fernando1dev GitHub stats](https://github-readme-stats.vercel.app/api?username=fernando1dev&show_icons=true&theme=dracula&count_private=true)
 
