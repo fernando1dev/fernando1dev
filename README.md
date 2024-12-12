@@ -10,7 +10,7 @@
 ### Tecnologias que estudo e uso no meu dia
 <div style="display: inline_block">
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img align="center" alt='Windows Server' src='https://img.shields.io/badge/Windows_Server-100000?style=for-the-badge&logo=Windows Server&logoColor=0D62A7&labelColor=0B61BD&color=0C5EB6'/></a>" />
+  <img align="center" alt='Windows Server' src='https://img.shields.io/badge/Windows_Server-100000?style=for-the-badge&logo=Windows Server&logoColor=0D62A7&labelColor=0B61BD&color=0C5EB6' />
   <img align="center" alt="ShellScript" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img align="center" alt="PowerShell" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
